@@ -1,0 +1,9 @@
+<settings>  
+  <servers>  
+    <server>
+      <id>nexus.your.server</id>
+      <username>user</username>
+      <password>P4$$w0rd</password>
+    </server>
+  </servers>  
+</settings>

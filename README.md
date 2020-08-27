@@ -1,2 +1,2 @@
-# docker-jenkins-tz
-Dockerized Jenkins with Mexico TZ
+# jenkins-tz
+Create a dockerized jenkins with Mexico TZ
